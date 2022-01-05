@@ -1,0 +1,4192 @@
+[
+  {
+    "distro_name": "MX Linux",
+    "distro_rating": 8.6,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian (Stable)",
+            "href": "https://distrowatch.com/search.php?basedon=Debian (Stable)#simple"
+          },
+          {
+            "name": "antiX",
+            "href": "https://distrowatch.com/search.php?basedon=antiX#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Greece",
+            "href": "https://distrowatch.com/search.php?origin=Greece#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "armhf",
+            "href": "https://distrowatch.com/search.php?architecture=armhf#simple"
+          },
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "From RAM",
+            "href": "https://distrowatch.com/search.php?category=From+RAM#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Raspberry Pi",
+            "href": "https://distrowatch.com/search.php?category=Raspberry+Pi#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "1 (3,472 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "MX Linux, a desktop-oriented Linux distribution based on Debian's \"Stable\" branch, is a cooperative venture between the antiX and former MEPIS Linux communities. Using Xfce as the default desktop (with separate KDE Plasma and Fluxbox editions also available), it is a mid-weight operating system designed to combine an elegant and efficient desktop with simple configuration, high stability, solid performance and medium-sized footprint."
+  },
+  {
+    "distro_name": "Linux Mint",
+    "distro_rating": 8.7,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Ubuntu (LTS)",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu (LTS)#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Ireland",
+            "href": "https://distrowatch.com/search.php?origin=Ireland#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Beginners",
+            "href": "https://distrowatch.com/search.php?category=Beginners#simple"
+          },
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "4 (1,986 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Linux Mint is an Ubuntu-based distribution whose goal is to provide a classic desktop experience with many convenient, custom tools and optional out-of-the-box multimedia support. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories."
+  },
+  {
+    "distro_name": "Manjaro Linux",
+    "distro_rating": 8.35,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Arch",
+            "href": "https://distrowatch.com/search.php?basedon=Arch#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Austria, France, Germany",
+            "href": "https://distrowatch.com/search.php?origin=Austria, France, Germany#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "aarch64",
+            "href": "https://distrowatch.com/search.php?architecture=aarch64#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Awesome",
+            "href": "https://distrowatch.com/search.php?desktop=Awesome#simple"
+          },
+          {
+            "name": "bspwm",
+            "href": "https://distrowatch.com/search.php?desktop=bspwm#simple"
+          },
+          {
+            "name": "Budgie",
+            "href": "https://distrowatch.com/search.php?desktop=Budgie#simple"
+          },
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "i3",
+            "href": "https://distrowatch.com/search.php?desktop=i3#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Openbox",
+            "href": "https://distrowatch.com/search.php?desktop=Openbox#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Raspberry Pi",
+            "href": "https://distrowatch.com/search.php?category=Raspberry+Pi#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "3 (2,225 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Manjaro Linux is a fast, user-friendly, desktop-oriented operating system based on Arch Linux. Key features include intuitive installation process, automatic hardware detection, stable rolling-release model, ability to install multiple kernels, special Bash scripts for managing graphics drivers and extensive desktop configurability. Manjaro Linux offers Xfce as the core desktop options, as well as KDE, GNOME and a minimalist Net edition for more advanced users. Community-supported desktop flavours are also available. "
+  },
+  {
+    "distro_name": "Debian",
+    "distro_rating": 8.79,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": []
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Global",
+            "href": "https://distrowatch.com/search.php?origin=Global#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "aarch64",
+            "href": "https://distrowatch.com/search.php?architecture=aarch64#simple"
+          },
+          {
+            "name": "armel",
+            "href": "https://distrowatch.com/search.php?architecture=armel#simple"
+          },
+          {
+            "name": "armhf",
+            "href": "https://distrowatch.com/search.php?architecture=armhf#simple"
+          },
+          {
+            "name": "i386",
+            "href": "https://distrowatch.com/search.php?architecture=i386#simple"
+          },
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "mips",
+            "href": "https://distrowatch.com/search.php?architecture=mips#simple"
+          },
+          {
+            "name": "mipsel",
+            "href": "https://distrowatch.com/search.php?architecture=mipsel#simple"
+          },
+          {
+            "name": "ppc64el",
+            "href": "https://distrowatch.com/search.php?architecture=ppc64el#simple"
+          },
+          {
+            "name": "s390x",
+            "href": "https://distrowatch.com/search.php?architecture=s390x#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "AfterStep",
+            "href": "https://distrowatch.com/search.php?desktop=AfterStep#simple"
+          },
+          {
+            "name": "Awesome",
+            "href": "https://distrowatch.com/search.php?desktop=Awesome#simple"
+          },
+          {
+            "name": "Blackbox",
+            "href": "https://distrowatch.com/search.php?desktop=Blackbox#simple"
+          },
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "Fluxbox",
+            "href": "https://distrowatch.com/search.php?desktop=Fluxbox#simple"
+          },
+          {
+            "name": "flwm",
+            "href": "https://distrowatch.com/search.php?desktop=flwm#simple"
+          },
+          {
+            "name": "FVWM",
+            "href": "https://distrowatch.com/search.php?desktop=FVWM#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "i3",
+            "href": "https://distrowatch.com/search.php?desktop=i3#simple"
+          },
+          {
+            "name": "IceWM",
+            "href": "https://distrowatch.com/search.php?desktop=IceWM#simple"
+          },
+          {
+            "name": "ion",
+            "href": "https://distrowatch.com/search.php?desktop=ion#simple"
+          },
+          {
+            "name": "JWM",
+            "href": "https://distrowatch.com/search.php?desktop=JWM#simple"
+          },
+          {
+            "name": "KDE",
+            "href": "https://distrowatch.com/search.php?desktop=KDE#simple"
+          },
+          {
+            "name": "LXDE",
+            "href": "https://distrowatch.com/search.php?desktop=LXDE#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Openbox",
+            "href": "https://distrowatch.com/search.php?desktop=Openbox#simple"
+          },
+          {
+            "name": "pekwm",
+            "href": "https://distrowatch.com/search.php?desktop=pekwm#simple"
+          },
+          {
+            "name": "Ratpoison",
+            "href": "https://distrowatch.com/search.php?desktop=Ratpoison#simple"
+          },
+          {
+            "name": "WMaker",
+            "href": "https://distrowatch.com/search.php?desktop=WMaker#simple"
+          },
+          {
+            "name": "XBMC",
+            "href": "https://distrowatch.com/search.php?desktop=XBMC#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Server",
+            "href": "https://distrowatch.com/search.php?category=Server#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "7 (1,313 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together."
+  },
+  {
+    "distro_name": "openSUSE",
+    "distro_rating": 8.95,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": []
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Germany",
+            "href": "https://distrowatch.com/search.php?origin=Germany#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "aarch64",
+            "href": "https://distrowatch.com/search.php?architecture=aarch64#simple"
+          },
+          {
+            "name": "armhf",
+            "href": "https://distrowatch.com/search.php?architecture=armhf#simple"
+          },
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "ppc64",
+            "href": "https://distrowatch.com/search.php?architecture=ppc64#simple"
+          },
+          {
+            "name": "ppc64el",
+            "href": "https://distrowatch.com/search.php?architecture=ppc64el#simple"
+          },
+          {
+            "name": "s390x",
+            "href": "https://distrowatch.com/search.php?architecture=s390x#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "Enlightenment",
+            "href": "https://distrowatch.com/search.php?desktop=Enlightenment#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "IceWM",
+            "href": "https://distrowatch.com/search.php?desktop=IceWM#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "LXDE",
+            "href": "https://distrowatch.com/search.php?desktop=LXDE#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Server",
+            "href": "https://distrowatch.com/search.php?category=Server#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Raspberry Pi",
+            "href": "https://distrowatch.com/search.php?category=Raspberry+Pi#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "12 (757 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors."
+  },
+  {
+    "distro_name": "Ubuntu",
+    "distro_rating": 7.59,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Isle of Man",
+            "href": "https://distrowatch.com/search.php?origin=Isle of Man#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "armhf",
+            "href": "https://distrowatch.com/search.php?architecture=armhf#simple"
+          },
+          {
+            "name": "ppc64el",
+            "href": "https://distrowatch.com/search.php?architecture=ppc64el#simple"
+          },
+          {
+            "name": "riscv",
+            "href": "https://distrowatch.com/search.php?architecture=riscv#simple"
+          },
+          {
+            "name": "s390x",
+            "href": "https://distrowatch.com/search.php?architecture=s390x#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "Unity",
+            "href": "https://distrowatch.com/search.php?desktop=Unity#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Beginners",
+            "href": "https://distrowatch.com/search.php?category=Beginners#simple"
+          },
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Server",
+            "href": "https://distrowatch.com/search.php?category=Server#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "6 (1,334 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. \"Ubuntu\" is an ancient African word, meaning \"humanity to others\". The Ubuntu distribution brings the spirit of Ubuntu to the software world."
+  },
+  {
+    "distro_name": "deepin",
+    "distro_rating": 8.61,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "China",
+            "href": "https://distrowatch.com/search.php?origin=China#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Deepin",
+            "href": "https://distrowatch.com/search.php?desktop=Deepin#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "36 (287 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "deepin (formerly, Deepin, Linux Deepin, Hiweed GNU/Linux) is a Debian-based distribution (it was Ubuntu-based until version 15 released in late 2015) that aims to provide an elegant, user-friendly and reliable operating system. It does not only include the best the open source world has to offer, but it has also created its own desktop environment called DDE or Deepin Desktop Environment which is based on the Qt 5 toolkit. Deepin focuses much of its attention on intuitive design. Its home-grown applications, like Deepin Software Centre, DMusic and DPlayer are tailored to the average user. Being easy to install and use, deepin can be a good Windows alternative for office and home use."
+  },
+  {
+    "distro_name": "Solus",
+    "distro_rating": 8.3,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": []
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Ireland",
+            "href": "https://distrowatch.com/search.php?origin=Ireland#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Budgie",
+            "href": "https://distrowatch.com/search.php?desktop=Budgie#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Beginners",
+            "href": "https://distrowatch.com/search.php?category=Beginners#simple"
+          },
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "15 (597 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Solus is a Linux distribution built from scratch. It uses a forked version of the PiSi package manager, maintained as \"eopkg\" within Solus, and a custom desktop environment called \"Budgie\", developed in-house. The Budgie desktop, which can be set to emulate the look and feel of the GNOME 2 desktop, is tightly integrated with the GNOME stack. The distribution is available for 64-bit computers only."
+  },
+  {
+    "distro_name": "Fedora",
+    "distro_rating": 8.33,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": []
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "USA",
+            "href": "https://distrowatch.com/search.php?origin=USA#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "aarch64",
+            "href": "https://distrowatch.com/search.php?architecture=aarch64#simple"
+          },
+          {
+            "name": "armhfp",
+            "href": "https://distrowatch.com/search.php?architecture=armhfp#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Awesome",
+            "href": "https://distrowatch.com/search.php?desktop=Awesome#simple"
+          },
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "Enlightenment",
+            "href": "https://distrowatch.com/search.php?desktop=Enlightenment#simple"
+          },
+          {
+            "name": "i3",
+            "href": "https://distrowatch.com/search.php?desktop=i3#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "LXDE",
+            "href": "https://distrowatch.com/search.php?desktop=LXDE#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Openbox",
+            "href": "https://distrowatch.com/search.php?desktop=Openbox#simple"
+          },
+          {
+            "name": "Pantheon",
+            "href": "https://distrowatch.com/search.php?desktop=Pantheon#simple"
+          },
+          {
+            "name": "Ratpoison",
+            "href": "https://distrowatch.com/search.php?desktop=Ratpoison#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Server",
+            "href": "https://distrowatch.com/search.php?category=Server#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "10 (981 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Fedora Linux (formerly Fedora, formerly Fedora Core) is a Linux distribution developed by the community-supported Fedora Project and owned by Red Hat. Fedora Linux contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream Linux communities. The default desktop in Fedora Linux is the GNOME desktop environment and the default interface is the GNOME Shell. Other desktop environments, including KDE, Xfce, LXDE, MATE and Cinnamon, are available. The Fedora project also distributes custom variations of Fedora called Fedora spins. These are built with specific sets of software packages, offering alternative desktop environments or targeting specific interests such as gaming, security, design, scientific computing and robotics."
+  },
+  {
+    "distro_name": "Pop!_OS",
+    "distro_rating": 8.32,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Ubuntu",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu#simple"
+          },
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "USA",
+            "href": "https://distrowatch.com/search.php?origin=USA#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "5 (1,535 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Pop!_OS is an Ubuntu-based Linux distribution featuring a custom GNOME desktop. Pop!_OS is designed to have a minimal amount of clutter on the desktop without distractions in order to allow the user to focus on work. The distribution is developed by Linux computer retailer System76."
+  },
+  {
+    "distro_name": "Arch Linux",
+    "distro_rating": 9.34,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": []
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Canada",
+            "href": "https://distrowatch.com/search.php?origin=Canada#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "Enlightenment",
+            "href": "https://distrowatch.com/search.php?desktop=Enlightenment#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "KDE",
+            "href": "https://distrowatch.com/search.php?desktop=KDE#simple"
+          },
+          {
+            "name": "LXDE",
+            "href": "https://distrowatch.com/search.php?desktop=LXDE#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Server",
+            "href": "https://distrowatch.com/search.php?category=Server#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "19 (466 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Arch Linux is an independently developed, x86_64-optimised Linux distribution targeted at competent Linux users. It uses 'pacman', its home-grown package manager, to provide updates to the latest software applications with full dependency tracking. Operating on a rolling release system, Arch can be installed from a CD image or via an FTP server. The default install provides a solid base that enables users to create a custom installation. In addition, the Arch Build System (ABS) provides a way to easily build new packages, modify the configuration of stock packages, and share these packages with other users via the Arch Linux user repository."
+  },
+  {
+    "distro_name": "Zorin OS",
+    "distro_rating": 8.43,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Ubuntu (LTS)",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu (LTS)#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Ireland",
+            "href": "https://distrowatch.com/search.php?origin=Ireland#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Beginners",
+            "href": "https://distrowatch.com/search.php?category=Beginners#simple"
+          },
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "11 (900 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Zorin OS is an Ubuntu-based Linux distribution designed especially for newcomers to Linux. It has a Windows-like graphical user interface and many programs similar to those found in Windows. Zorin OS also comes with an application that lets users run many Windows programs. The distribution's ultimate goal is to provide a Linux alternative to Windows and let Windows users enjoy all the features of Linux without complications."
+  },
+  {
+    "distro_name": "KDE neon",
+    "distro_rating": 8.87,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Ubuntu (LTS)",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu (LTS)#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "United Kingdom",
+            "href": "https://distrowatch.com/search.php?origin=United Kingdom#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "aarch64",
+            "href": "https://distrowatch.com/search.php?architecture=aarch64#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "13 (692 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "KDE neon is a Ubuntu-based Linux distribution and live DVD featuring the latest KDE Plasma desktop and other KDE community software. Besides the installable DVD image, the project provides a rapidly-evolving software repository with all the latest KDE software. Two editions of the product are available - a \"User\" edition, designed for those interested in checking out the latest KDE software as it gets released, and a \"Developer's\" edition, created as a platform for testing cutting-edge KDE applications. "
+  },
+  {
+    "distro_name": "elementary OS",
+    "distro_rating": 6.93,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Ubuntu",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "USA",
+            "href": "https://distrowatch.com/search.php?origin=USA#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Pantheon",
+            "href": "https://distrowatch.com/search.php?desktop=Pantheon#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Beginners",
+            "href": "https://distrowatch.com/search.php?category=Beginners#simple"
+          },
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "9 (1,077 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Epiphany web browser and a fork of Geary mail."
+  },
+  {
+    "distro_name": "Devuan GNU+Linux",
+    "distro_rating": 9.16,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Global",
+            "href": "https://distrowatch.com/search.php?origin=Global#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "armhf",
+            "href": "https://distrowatch.com/search.php?architecture=armhf#simple"
+          },
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Server",
+            "href": "https://distrowatch.com/search.php?category=Server#simple"
+          },
+          {
+            "name": "Raspberry Pi",
+            "href": "https://distrowatch.com/search.php?category=Raspberry+Pi#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "29 (332 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Devuan GNU+Linux is a Linux distribution forked from Debian in 2015. The project's primary goal is to provide a variant of Debian without the complexities and dependencies of systemd, an init system and services manager originally developed by Red Hat and later adopted by most other Linux distributions. Devuan's initial beta release was made available in April 2016, together with an upgrade path from Debian 7.0 \"Wheezy\" and a possibility to switch to Devuan from Debian 8.0 \"Jessie\". The distribution adopted Xfce as its default desktop."
+  },
+  {
+    "distro_name": "EndeavourOS",
+    "distro_rating": 8.69,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Arch",
+            "href": "https://distrowatch.com/search.php?basedon=Arch#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Netherlands",
+            "href": "https://distrowatch.com/search.php?origin=Netherlands#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "aarch64",
+            "href": "https://distrowatch.com/search.php?architecture=aarch64#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Budgie",
+            "href": "https://distrowatch.com/search.php?desktop=Budgie#simple"
+          },
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "i3",
+            "href": "https://distrowatch.com/search.php?desktop=i3#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "2 (3,122 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "EndeavourOS is a rolling release Linux distribution based on Arch Linux. The project aims to be a spiritual successor to Antergos - providing an easy setup and pre-configured desktop environment on an Arch base. EndeavourOS offers both off-line and on-line install options. The off-line installer, Calamares, uses the Xfce desktop by default. The on-line installer can install optional software components, including most popular desktop environments."
+  },
+  {
+    "distro_name": "Kubuntu",
+    "distro_rating": 8.86,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Ubuntu",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Isle of Man",
+            "href": "https://distrowatch.com/search.php?origin=Isle of Man#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Server",
+            "href": "https://distrowatch.com/search.php?category=Server#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "30 (330 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Kubuntu is a free, user-friendly Linux distribution based on KDE's desktop software and on the Ubuntu operating system. It has a biannual release cycle. Besides providing an up-to-date version of the KDE desktop at the time of the release, the project also releases updated KDE packages throughout the lifetime of each release."
+  },
+  {
+    "distro_name": "ArcoLinux",
+    "distro_rating": 9.02,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Arch",
+            "href": "https://distrowatch.com/search.php?basedon=Arch#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Belgium",
+            "href": "https://distrowatch.com/search.php?origin=Belgium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Awesome",
+            "href": "https://distrowatch.com/search.php?desktop=Awesome#simple"
+          },
+          {
+            "name": "bspwm",
+            "href": "https://distrowatch.com/search.php?desktop=bspwm#simple"
+          },
+          {
+            "name": "Budgie",
+            "href": "https://distrowatch.com/search.php?desktop=Budgie#simple"
+          },
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "Deepin",
+            "href": "https://distrowatch.com/search.php?desktop=Deepin#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "i3",
+            "href": "https://distrowatch.com/search.php?desktop=i3#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "Openbox",
+            "href": "https://distrowatch.com/search.php?desktop=Openbox#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "22 (408 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "ArcoLinux (previously known as ArchMerge) is a distribution based on Arch Linux. The development takes places in three branches - ArcoLinux, ArcoLinuxD and ArcoLinuxB. ArcoLinux is a full-featured distribution that ships with the Xfce desktop (as well as Openbox and i3 window managers). ArcoLinuxD is a minimal distribution that includes scripts that enable power users to install any desktop and application. ArcoLinuxB is a project that gives users the power to build custom distributions, while also developing several community editions with pre-configured desktops, such as Awesome, bspwm, Budgie, Cinnamon, Deepin, GNOME, MATE and KDE Plasma. ArcoLinux also provides various video tutorials as it places strong focus on learning and acquiring Linux skills."
+  },
+  {
+    "distro_name": "Linux Lite",
+    "distro_rating": 8.75,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Ubuntu (LTS)",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu (LTS)#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "New Zealand",
+            "href": "https://distrowatch.com/search.php?origin=New Zealand#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Beginners",
+            "href": "https://distrowatch.com/search.php?category=Beginners#simple"
+          },
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "17 (520 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Linux Lite is a beginner-friendly Linux distribution based on Ubuntu's long-term support (LTS) release and featuring the Xfce desktop. Linux Lite primarily targets Windows users. It aims to provide a complete set of applications to assist users with their everyday computing needs, including a full office suite, media players and other essential daily software."
+  },
+  {
+    "distro_name": "Peppermint OS",
+    "distro_rating": 8.97,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Lubuntu (LTS)",
+            "href": "https://distrowatch.com/search.php?basedon=Lubuntu (LTS)#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "United Kingdom",
+            "href": "https://distrowatch.com/search.php?origin=United Kingdom#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "LXDE",
+            "href": "https://distrowatch.com/search.php?desktop=LXDE#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Netbooks",
+            "href": "https://distrowatch.com/search.php?category=Netbooks#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "41 (252 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Peppermint OS is a Lubuntu-based Linux distribution that aims to be lightning fast and easy on system resources. By employing its Site Specific Browser, Peppermint integrates seamlessly with cloud and web-based applications. The distribution's other features include automatic updates, easy step-by-step installation, sleek and user-friendly interface, and increased mobility by integrating directly with cloud-based applications. The distribution employs a hybrid LXDE/Xfce desktop environment, mixing LXDE's lxsession with Xfce's panel and application menu."
+  },
+  {
+    "distro_name": "antiX",
+    "distro_rating": 8.31,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Greece",
+            "href": "https://distrowatch.com/search.php?origin=Greece#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Fluxbox",
+            "href": "https://distrowatch.com/search.php?desktop=Fluxbox#simple"
+          },
+          {
+            "name": "IceWM",
+            "href": "https://distrowatch.com/search.php?desktop=IceWM#simple"
+          },
+          {
+            "name": "JWM",
+            "href": "https://distrowatch.com/search.php?desktop=JWM#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "From RAM",
+            "href": "https://distrowatch.com/search.php?category=From+RAM#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Old Computers",
+            "href": "https://distrowatch.com/search.php?category=Old+Computers#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "14 (602 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "antiX is a fast, lightweight and easy-to-install Linux live CD distribution based on Debian's \"Stable\" branch for x86 compatible systems. antiX offers users the \"antiX Magic\" in an environment suitable for old computers. The goal of antiX is to provide a light, but fully functional and flexible free operating system for both newcomers and experienced users of Linux. It should run on most computers, ranging from 256 MB old PIII systems with pre-configured swap to the latest powerful boxes. 256 MB RAM is recommended minimum for antiX. The installer needs minimum 2.7 GB hard disk size. antiX can also be used as a fast-booting rescue CD, or run \"live\" on a USB stick, with or without persistent file storage."
+  },
+  {
+    "distro_name": "Lubuntu",
+    "distro_rating": 8.16,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Ubuntu",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "France, Taiwan",
+            "href": "https://distrowatch.com/search.php?origin=France, Taiwan#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "LXDE",
+            "href": "https://distrowatch.com/search.php?desktop=LXDE#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Netbooks",
+            "href": "https://distrowatch.com/search.php?category=Netbooks#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "33 (311 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Lubuntu is a variant of Ubuntu that uses the LXQt desktop environment. (Versions prior to 18.10 shipped with the LXDE desktop.) It includes essential applications and services for daily use, including office suite, PDF reader, image editor and multimedia players. A distribution available for both 32-bit and 64-bit computers, Lubuntu is intended to be user-friendly, lightweight and energy efficient.    "
+  },
+  {
+    "distro_name": "Ubuntu MATE",
+    "distro_rating": 8.57,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Ubuntu",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "United Kingdom",
+            "href": "https://distrowatch.com/search.php?origin=United Kingdom#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "aarch64",
+            "href": "https://distrowatch.com/search.php?architecture=aarch64#simple"
+          },
+          {
+            "name": "armhf",
+            "href": "https://distrowatch.com/search.php?architecture=armhf#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Beginners",
+            "href": "https://distrowatch.com/search.php?category=Beginners#simple"
+          },
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Raspberry Pi",
+            "href": "https://distrowatch.com/search.php?category=Raspberry+Pi#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "60 (191 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Ubuntu MATE is a desktop Linux distribution which aims to bring the simplicity and elegance of the Ubuntu operating system through a classic, traditional desktop environment - the MATE desktop. MATE is the continuation of the GNOME 2 desktop environment which was used as Ubuntu's default desktop until 10.10 (when it was replaced by Unity). The project began its life as an Ubuntu \"remix\", but starting with version 15.04, it was formally accepted as an official member of the Ubuntu family of Linux distributions."
+  },
+  {
+    "distro_name": "Q4OS",
+    "distro_rating": 8.56,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian (Stable)",
+            "href": "https://distrowatch.com/search.php?basedon=Debian (Stable)#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Germany",
+            "href": "https://distrowatch.com/search.php?origin=Germany#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "aarch64",
+            "href": "https://distrowatch.com/search.php?architecture=aarch64#simple"
+          },
+          {
+            "name": "armhf",
+            "href": "https://distrowatch.com/search.php?architecture=armhf#simple"
+          },
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "Trinity",
+            "href": "https://distrowatch.com/search.php?desktop=Trinity#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Old Computers",
+            "href": "https://distrowatch.com/search.php?category=Old+Computers#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "23 (393 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Q4OS is a Debian-based desktop Linux distribution designed to offer classic-style user interface (Trinity) and simple accessories, and to serve stable APIs for complex third-party applications, such as Google Chrome, VirtualBox and development tools. The system is also very useful for virtual cloud environments due to its very low hardware requirements."
+  },
+  {
+    "distro_name": "Void",
+    "distro_rating": 9.08,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": []
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Spain",
+            "href": "https://distrowatch.com/search.php?origin=Spain#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "aarch64",
+            "href": "https://distrowatch.com/search.php?architecture=aarch64#simple"
+          },
+          {
+            "name": "armv6",
+            "href": "https://distrowatch.com/search.php?architecture=armv6#simple"
+          },
+          {
+            "name": "armv7",
+            "href": "https://distrowatch.com/search.php?architecture=armv7#simple"
+          },
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "Enlightenment",
+            "href": "https://distrowatch.com/search.php?desktop=Enlightenment#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "LXDE",
+            "href": "https://distrowatch.com/search.php?desktop=LXDE#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Raspberry Pi",
+            "href": "https://distrowatch.com/search.php?category=Raspberry+Pi#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "32 (323 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Void is an independently-developed, general-purpose operating system based on the monolithic Linux kernel. It features a hybrid binary/source package management system which allows users to quickly install, update and remove software, or to build software directly from sources with the help of the XBPS source packages collection. Other features of the distribution include support for Raspberry Pi single-board computers (both armv6 and armv7), rolling-release development model with daily updates, integration of OpenBSD's LibreSSL software, and native init system called \"runit\"."
+  },
+  {
+    "distro_name": "Mageia",
+    "distro_rating": 8.47,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": []
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "France",
+            "href": "https://distrowatch.com/search.php?origin=France#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "aarch64",
+            "href": "https://distrowatch.com/search.php?architecture=aarch64#simple"
+          },
+          {
+            "name": "armv7",
+            "href": "https://distrowatch.com/search.php?architecture=armv7#simple"
+          },
+          {
+            "name": "i586",
+            "href": "https://distrowatch.com/search.php?architecture=i586#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "IceWM",
+            "href": "https://distrowatch.com/search.php?desktop=IceWM#simple"
+          },
+          {
+            "name": "KDE",
+            "href": "https://distrowatch.com/search.php?desktop=KDE#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "LXDE",
+            "href": "https://distrowatch.com/search.php?desktop=LXDE#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          },
+          {
+            "name": "Openbox",
+            "href": "https://distrowatch.com/search.php?desktop=Openbox#simple"
+          },
+          {
+            "name": "WMaker",
+            "href": "https://distrowatch.com/search.php?desktop=WMaker#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Server",
+            "href": "https://distrowatch.com/search.php?category=Server#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "37 (275 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Mageia is a fork of Mandriva Linux formed in September 2010 by former employees and contributors to the popular French Linux distribution. Unlike Mandriva, which is a commercial entity, the Mageia project is a community project and a non-profit organisation whose goal is to develop a free Linux-based operating system."
+  },
+  {
+    "distro_name": "PCLinuxOS",
+    "distro_rating": 8.63,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": []
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "USA",
+            "href": "https://distrowatch.com/search.php?origin=USA#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Beginners",
+            "href": "https://distrowatch.com/search.php?category=Beginners#simple"
+          },
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "18 (497 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "PCLinuxOS is a user-friendly Linux distribution with out-of-the-box support for many popular graphics and sound cards, as well as other peripheral devices. The bootable live DVD provides an easy-to-use graphical installer and the distribution sports a wide range of popular applications for the typical desktop user, including browser plugins and full multimedia playback. The intuitive system configuration tools include Synaptic for package management, Addlocale to add support to many languages and Mylivecd to create a customised live CD."
+  },
+  {
+    "distro_name": "Slackware Linux",
+    "distro_rating": 9.1,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": []
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "USA",
+            "href": "https://distrowatch.com/search.php?origin=USA#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "arm",
+            "href": "https://distrowatch.com/search.php?architecture=arm#simple"
+          },
+          {
+            "name": "i586",
+            "href": "https://distrowatch.com/search.php?architecture=i586#simple"
+          },
+          {
+            "name": "s390",
+            "href": "https://distrowatch.com/search.php?architecture=s390#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Blackbox",
+            "href": "https://distrowatch.com/search.php?desktop=Blackbox#simple"
+          },
+          {
+            "name": "Fluxbox",
+            "href": "https://distrowatch.com/search.php?desktop=Fluxbox#simple"
+          },
+          {
+            "name": "FVWM",
+            "href": "https://distrowatch.com/search.php?desktop=FVWM#simple"
+          },
+          {
+            "name": "KDE",
+            "href": "https://distrowatch.com/search.php?desktop=KDE#simple"
+          },
+          {
+            "name": "WMaker",
+            "href": "https://distrowatch.com/search.php?desktop=WMaker#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Server",
+            "href": "https://distrowatch.com/search.php?category=Server#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "16 (526 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "The Official Release of Slackware Linux by Patrick Volkerding is an advanced Linux operating system, designed with the twin goals of ease of use and stability as top priorities. Including the latest popular software while retaining a sense of tradition, providing simplicity and ease of use alongside flexibility and power, Slackware brings the best of all worlds to the table. Originally developed by Linus Torvalds in 1991, the UNIX-like Linux operating system now benefits from the contributions of millions of users and developers around the world. Slackware Linux provides new and experienced users alike with a fully-featured system, equipped to serve in any capacity from desktop workstation to machine-room server. Web, ftp, and email servers are ready to go out of the box, as are a wide selection of popular desktop environments. A full range of development tools, editors, and current libraries is included for users who wish to develop or compile additional software."
+  },
+  {
+    "distro_name": "Xubuntu",
+    "distro_rating": 8.48,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Ubuntu",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Isle of Man",
+            "href": "https://distrowatch.com/search.php?origin=Isle of Man#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "44 (246 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Xubuntu is a community-developed operating system based on Ubuntu. It comes with Xfce, which is a stable, light and configurable desktop environment."
+  },
+  {
+    "distro_name": "Artix Linux",
+    "distro_rating": 8.99,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Arch",
+            "href": "https://distrowatch.com/search.php?basedon=Arch#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Global",
+            "href": "https://distrowatch.com/search.php?origin=Global#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "LXDE",
+            "href": "https://distrowatch.com/search.php?desktop=LXDE#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "20 (434 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Artix Linux is a fork (or continuation as an autonomous project) of the Arch-OpenRC and Manjaro-OpenRC projects. Artix Linux offers a lightweight, rolling-release operating system featuring the OpenRC init software. (Alternative spins feature the runit and s6 init software.) Several editions of Artix Linux are available, featuring either a plain command line or one of several desktop environments."
+  },
+  {
+    "distro_name": "Puppy Linux",
+    "distro_rating": 8.91,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": []
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Australia",
+            "href": "https://distrowatch.com/search.php?origin=Australia#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "JWM",
+            "href": "https://distrowatch.com/search.php?desktop=JWM#simple"
+          },
+          {
+            "name": "Openbox",
+            "href": "https://distrowatch.com/search.php?desktop=Openbox#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "From RAM",
+            "href": "https://distrowatch.com/search.php?category=From+RAM#simple"
+          },
+          {
+            "name": "Old Computers",
+            "href": "https://distrowatch.com/search.php?category=Old+Computers#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Netbooks",
+            "href": "https://distrowatch.com/search.php?category=Netbooks#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "24 (387 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all."
+  },
+  {
+    "distro_name": "Garuda Linux",
+    "distro_rating": 8.23,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Arch",
+            "href": "https://distrowatch.com/search.php?basedon=Arch#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "India",
+            "href": "https://distrowatch.com/search.php?origin=India#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "bspwm",
+            "href": "https://distrowatch.com/search.php?desktop=bspwm#simple"
+          },
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "i3",
+            "href": "https://distrowatch.com/search.php?desktop=i3#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Recbox",
+            "href": "https://distrowatch.com/search.php?desktop=Recbox#simple"
+          },
+          {
+            "name": "UKUI",
+            "href": "https://distrowatch.com/search.php?desktop=UKUI#simple"
+          },
+          {
+            "name": "Wayfire",
+            "href": "https://distrowatch.com/search.php?desktop=Wayfire#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Media",
+            "href": "https://distrowatch.com/search.php?category=Live+Media#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "8 (1,251 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Garuda Linux is a rolling distribution based on the Arch Linux operating system. Unlike Arch Linux, Garuda Linux comes with a graphical installer (Calamares) for easy installation, and other advanced graphical tools for managing your system. Garuda is a performance-oriented distro with many performance enhancing tweaks. Some of the many tweaks include using zram, a performance CPU governor, along with custom memory management software. Garuda Linux has striven to provide system stability by including the Timeshift backup utility."
+  },
+  {
+    "distro_name": "SparkyLinux",
+    "distro_rating": 8.45,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Poland",
+            "href": "https://distrowatch.com/search.php?origin=Poland#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "armhf",
+            "href": "https://distrowatch.com/search.php?architecture=armhf#simple"
+          },
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Budgie",
+            "href": "https://distrowatch.com/search.php?desktop=Budgie#simple"
+          },
+          {
+            "name": "Enlightenment",
+            "href": "https://distrowatch.com/search.php?desktop=Enlightenment#simple"
+          },
+          {
+            "name": "JWM",
+            "href": "https://distrowatch.com/search.php?desktop=JWM#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "LXDE",
+            "href": "https://distrowatch.com/search.php?desktop=LXDE#simple"
+          },
+          {
+            "name": "LXQt",
+            "href": "https://distrowatch.com/search.php?desktop=LXQt#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Openbox",
+            "href": "https://distrowatch.com/search.php?desktop=Openbox#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "25 (377 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "SparkyLinux is a lightweight, fast and simple Linux distribution designed for both old and new computers featuring customised Enlightenment and LXDE desktops. It has been built on the \"testing\" branch of Debian GNU/Linux."
+  },
+  {
+    "distro_name": "Antergos",
+    "distro_rating": 7.68,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Arch",
+            "href": "https://distrowatch.com/search.php?basedon=Arch#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Spain",
+            "href": "https://distrowatch.com/search.php?origin=Spain#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "KDE",
+            "href": "https://distrowatch.com/search.php?desktop=KDE#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Openbox",
+            "href": "https://distrowatch.com/search.php?desktop=Openbox#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "defined",
+            "href": "https://distrowatch.com/dwres.php?resource=faq#distrostatus"
+          },
+          {
+            "name": "Discontinued"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": []
+      }
+    ],
+    "distro_description": "    "
+  },
+  {
+    "distro_name": "Gentoo Linux",
+    "distro_rating": 8.96,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": []
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "USA",
+            "href": "https://distrowatch.com/search.php?origin=USA#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "i486",
+            "href": "https://distrowatch.com/search.php?architecture=i486#simple"
+          },
+          {
+            "name": "i586",
+            "href": "https://distrowatch.com/search.php?architecture=i586#simple"
+          },
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          },
+          {
+            "name": "alpha",
+            "href": "https://distrowatch.com/search.php?architecture=alpha#simple"
+          },
+          {
+            "name": "arm",
+            "href": "https://distrowatch.com/search.php?architecture=arm#simple"
+          },
+          {
+            "name": "hppa",
+            "href": "https://distrowatch.com/search.php?architecture=hppa#simple"
+          },
+          {
+            "name": "ia64",
+            "href": "https://distrowatch.com/search.php?architecture=ia64#simple"
+          },
+          {
+            "name": "mips",
+            "href": "https://distrowatch.com/search.php?architecture=mips#simple"
+          },
+          {
+            "name": "powerpc",
+            "href": "https://distrowatch.com/search.php?architecture=powerpc#simple"
+          },
+          {
+            "name": "ppc64",
+            "href": "https://distrowatch.com/search.php?architecture=ppc64#simple"
+          },
+          {
+            "name": "sparc64",
+            "href": "https://distrowatch.com/search.php?architecture=sparc64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "AfterStep",
+            "href": "https://distrowatch.com/search.php?desktop=AfterStep#simple"
+          },
+          {
+            "name": "Awesome",
+            "href": "https://distrowatch.com/search.php?desktop=Awesome#simple"
+          },
+          {
+            "name": "Blackbox",
+            "href": "https://distrowatch.com/search.php?desktop=Blackbox#simple"
+          },
+          {
+            "name": "Enlightenment",
+            "href": "https://distrowatch.com/search.php?desktop=Enlightenment#simple"
+          },
+          {
+            "name": "Fluxbox",
+            "href": "https://distrowatch.com/search.php?desktop=Fluxbox#simple"
+          },
+          {
+            "name": "GNOME",
+            "href": "https://distrowatch.com/search.php?desktop=GNOME#simple"
+          },
+          {
+            "name": "IceWM",
+            "href": "https://distrowatch.com/search.php?desktop=IceWM#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "LXDE",
+            "href": "https://distrowatch.com/search.php?desktop=LXDE#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          },
+          {
+            "name": "Openbox",
+            "href": "https://distrowatch.com/search.php?desktop=Openbox#simple"
+          },
+          {
+            "name": "WMaker",
+            "href": "https://distrowatch.com/search.php?desktop=WMaker#simple"
+          },
+          {
+            "name": "Xfce",
+            "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Server",
+            "href": "https://distrowatch.com/search.php?category=Server#simple"
+          },
+          {
+            "name": "Source-based",
+            "href": "https://distrowatch.com/search.php?category=Source-based#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "51 (215 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Gentoo Linux is a versatile and fast, completely free Linux distribution geared towards developers and network professionals. Unlike other distros, Gentoo Linux has an advanced package management system called Portage. Portage is a true ports system in the tradition of BSD ports, but is Python-based and sports a number of advanced features including dependencies, fine-grained package management, \"fake\" (OpenBSD-style) installs, safe unmerging, system profiles, virtual packages, config file management, and more."
+  },
+  {
+    "distro_name": "Feren OS",
+    "distro_rating": 8.12,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Ubuntu",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "United Kingdom",
+            "href": "https://distrowatch.com/search.php?origin=United Kingdom#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "i686",
+            "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+          },
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Cinnamon",
+            "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+          },
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "47 (232 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Feren OS is a desktop Linux distribution based on Ubuntu and featuring the KDE Plasma desktop. It ships with a tweaked Calamares system installer, a custom theme and fonts, the Vivaldi web browser, boot options for advanced users, and a Feren OS Tour application, among the many home-built features and improvements. Prior to November 2020, the distribution was based on Linux Mint and included an edition with the Cinnamon desktop."
+  },
+  {
+    "distro_name": "Bodhi Linux",
+    "distro_rating": 8.17,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Ubuntu",
+            "href": "https://distrowatch.com/search.php?basedon=Ubuntu#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "USA",
+            "href": "https://distrowatch.com/search.php?origin=USA#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "Moksha (Enlightenment)",
+            "href": "https://distrowatch.com/search.php?desktop=Moksha (Enlightenment)#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Netbooks",
+            "href": "https://distrowatch.com/search.php?category=Netbooks#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "64 (184 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Bodhi Linux is an elegant and lightweight Debian/Ubuntu-based distribution featuring Moksha, an Enlightenment-17-based desktop environment. The project takes a decidedly minimalist approach by offering modularity, high levels of customisation, and choice of themes. Bodhi releases come in several editions, including Standard (64-bit) and Legacy (32-bit) which are minimalist, only including a web browser, terminal, file manger, text editor and photo GUI applications, while the AppPack edition includes more applications and tools preinstalled. Additional software can be added with Bodhi's web-based AppCenter, Synaptic, and APT."
+  },
+  {
+    "distro_name": "Parrot",
+    "distro_rating": 8.79,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian (Testing)",
+            "href": "https://distrowatch.com/search.php?basedon=Debian (Testing)#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Italy",
+            "href": "https://distrowatch.com/search.php?origin=Italy#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "KDE Plasma",
+            "href": "https://distrowatch.com/search.php?desktop=KDE Plasma#simple"
+          },
+          {
+            "name": "MATE",
+            "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Forensics",
+            "href": "https://distrowatch.com/search.php?category=Forensics#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          },
+          {
+            "name": "Security",
+            "href": "https://distrowatch.com/search.php?category=Security#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "59 (191 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Parrot (formerly Parrot Security OS) is a Debian-based, security-oriented distribution featuring a collection of utilities designed for penetration testing, computer forensics, reverse engineering, hacking, privacy, anonymity and cryptography. The product, developed by Frozenbox, comes with MATE as the default desktop environment."
+  },
+  {
+    "distro_name": "Linuxfx",
+    "distro_rating": 7.77,
+    "distro_data": [
+      {
+        "name": "OS Type",
+        "child": [
+          {
+            "name": "Linux",
+            "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+          }
+        ]
+      },
+      {
+        "name": "Based on",
+        "child": [
+          {
+            "name": "Debian",
+            "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+          },
+          {
+            "name": "Mint",
+            "href": "https://distrowatch.com/search.php?basedon=Mint#simple"
+          }
+        ]
+      },
+      {
+        "name": "Origin",
+        "child": [
+          {
+            "name": "Brazil",
+            "href": "https://distrowatch.com/search.php?origin=Brazil#simple"
+          }
+        ]
+      },
+      {
+        "name": "Architecture",
+        "child": [
+          {
+            "name": "x86_64",
+            "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+          }
+        ]
+      },
+      {
+        "name": "Desktop",
+        "child": [
+          {
+            "name": "KDE",
+            "href": "https://distrowatch.com/search.php?desktop=KDE#simple"
+          }
+        ]
+      },
+      {
+        "name": "Category",
+        "child": [
+          {
+            "name": "Desktop",
+            "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+          },
+          {
+            "name": "Live Medium",
+            "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+          }
+        ]
+      },
+      {
+        "name": "Status",
+        "child": [
+          {
+            "name": "Active"
+          }
+        ]
+      },
+      {
+        "name": "Popularity",
+        "child": [
+          {
+            "name": "45 (243 hits per day)",
+            "href": "https://distrowatch.com/dwres.php?resource=popularity"
+          }
+        ]
+      }
+    ],
+    "distro_description": "Linuxfx is a Brazilian Linux distribution based on Ubuntu. It ships with an intuitive Cinnamon desktop user interface designed to facilitate migration of users from Windows. It includes a video management system called Sentinela, a computer vision software with video analytics and software for access control (facial recognition and automatic number plate recognition), object detection, gender, age and mood detection. Other features of the distribution include a new personal assistant, a WX theme for desktop and system applications, and compatibility with software written for Windows (.exe and .msi) through a Wine port. Following the release of Linuxfx 10.6 the distribution became a commercial offering."
+  }
+]

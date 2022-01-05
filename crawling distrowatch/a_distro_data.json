@@ -1,0 +1,97 @@
+[
+    {
+        "name": "OS Type",
+        "child": [
+            {
+                "name": "Linux",
+                "href": "https://distrowatch.com/search.php?ostype=Linux#simple"
+            }
+        ]
+    },
+    {
+        "name": "Based on",
+        "child": [
+            {
+                "name": "Debian",
+                "href": "https://distrowatch.com/search.php?basedon=Debian#simple"
+            },
+            {
+                "name": "Ubuntu (LTS)",
+                "href": "https://distrowatch.com/search.php?basedon=Ubuntu (LTS)#simple"
+            }
+        ]
+    },
+    {
+        "name": "Origin",
+        "child": [
+            {
+                "name": "Ireland",
+                "href": "https://distrowatch.com/search.php?origin=Ireland#simple"
+            }
+        ]
+    },
+    {
+        "name": "Architecture",
+        "child": [
+            {
+                "name": "i686",
+                "href": "https://distrowatch.com/search.php?architecture=i686#simple"
+            },
+            {
+                "name": "x86_64",
+                "href": "https://distrowatch.com/search.php?architecture=x86_64#simple"
+            }
+        ]
+    },
+    {
+        "name": "Desktop",
+        "child": [
+            {
+                "name": "Cinnamon",
+                "href": "https://distrowatch.com/search.php?desktop=Cinnamon#simple"
+            },
+            {
+                "name": "MATE",
+                "href": "https://distrowatch.com/search.php?desktop=MATE#simple"
+            },
+            {
+                "name": "Xfce",
+                "href": "https://distrowatch.com/search.php?desktop=Xfce#simple"
+            }
+        ]
+    },
+    {
+        "name": "Category",
+        "child": [
+            {
+                "name": "Beginners",
+                "href": "https://distrowatch.com/search.php?category=Beginners#simple"
+            },
+            {
+                "name": "Desktop",
+                "href": "https://distrowatch.com/search.php?category=Desktop#simple"
+            },
+            {
+                "name": "Live Medium",
+                "href": "https://distrowatch.com/search.php?category=Live+Medium#simple"
+            }
+        ]
+    },
+    {
+        "name": "Status",
+        "child": [
+            {
+                "name": "Active"
+            }
+        ]
+    },
+    {
+        "name": "Popularity",
+        "child": [
+            {
+                "name": "4 (1,986 hits per day)",
+                "href": "https://distrowatch.com/dwres.php?resource=popularity"
+            }
+        ]
+    }
+]
