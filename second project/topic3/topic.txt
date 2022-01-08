@@ -1,0 +1,18 @@
+https://vinmart.co/danh-muc/
+
+
+
+***** requirements *****
+- chọn 1 danh mục sản phẩm trong số các danh mục sản phẩm có trong đường link trên 
+- get link ( dùng code lấy link , không lấy link = "cơm")
+- sau khi chọn danh mục xong tiến hành crawling data : 
+	+ link sản phẩm 10 page đầu tiên 
+	+ lấy link hình ảnh sản phẩm ( không bắt buộc ) 
+	+ tên sản phẩm ( string)
+	+ giá bán (float)
+	+ trạng thái (nếu có) (string)
+	+ kho hàng ( nếu có ) (string)
+	+ chi tiết sản phẩm  (string)
+- sau cùng đẩy data về file csv bao gồm các cột : "Name product" , "Link product" , "Price" , "Status" , "WareHouse" . "Product Details" , "First-Link" ,"Image-Product"
+** chú ý : first-link là link danh mục sản phẩm các bạn chọn để crawling data
+	   Image product - nếu các bạn crawling được thì để cột image còn không thì không cần thêm vào file csv
