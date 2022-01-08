@@ -4,7 +4,7 @@
 
 # 2. Yêu cầu
 ## - Địa chỉ trang web crawl: `https://cafef.vn`
-## - Thu thập các thông tin phía dưới trong khoảng thời gian: 10/12/2021 - 07/01/2022
+## - Thu thập dữ liệu ```thống kê đặt lệnh``` trong khoảng thời gian: 10/12/2021 - 07/01/2022
 ## - Trích xuất các thông tin sau: 
 - Ngày 
 - Thay đổi (+/-%)
