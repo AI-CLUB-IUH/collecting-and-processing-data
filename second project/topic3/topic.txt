@@ -7,7 +7,7 @@ https://vinmart.co/danh-muc/
 - get link ( dùng code lấy link , không lấy link = "cơm")
 - sau khi chọn danh mục xong tiến hành crawling data : 
 	+ link sản phẩm 10 page đầu tiên 
-	+ lấy link hình ảnh sản phẩm ( không bắt buộc ) 
+	+ lấy link hình ảnh sản phẩm ( bắt buộc ) 
 	+ tên sản phẩm ( string)
 	+ giá bán (float)
 	+ trạng thái (nếu có) (string)
